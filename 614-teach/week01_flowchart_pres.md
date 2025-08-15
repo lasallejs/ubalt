@@ -1,9 +1,4 @@
----
-marp: true
-theme: uncover
-header: Flowcharts: Visualizing Processes
-footer: IDIA 614 | Fall 2024
----
+
 
 # Flowcharts: Visualizing Processes
 
@@ -118,4 +113,5 @@ footer: IDIA 614 | Fall 2024
 * **Consider the Audience:** Tailor the flowchart to the intended viewers.
 
 ---
+
 

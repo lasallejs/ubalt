@@ -1,5 +1,5 @@
 ### Analytical Questions:
-1. **How does McCloud’s definition of comics as “juxtaposed pictorial and other images in deliberate sequence” relate to the way interaction designers structure user experiences? Can this definition be applied to digital interfaces?**
+1. How does McCloud’s definition of comics as “juxtaposed pictorial and other images in deliberate sequence” relate to the way interaction designers structure user experiences? Can this definition be applied to digital interfaces?**
    
 2. **McCloud discusses the role of closure (the act of mentally completing the gaps between panels). How can the concept of closure be used in interaction design to enhance user experiences across various platforms?**
 
